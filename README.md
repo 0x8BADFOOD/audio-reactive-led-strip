@@ -152,7 +152,7 @@ Download and extract all of the files in this repository onto your pi to begin.
 Install python dependencies using apt-get
 ```
 sudo apt-get update
-sudo apt-get install python-numpy python-scipy python-pyaudio
+sudo apt-get install python3-numpy python3-scipy python3-pyaudio
 ```
 
 ## Audio device configuration
